@@ -31,19 +31,19 @@ Project:
    Uri: 'urn:FTOptix:Retentivity'
    Module: FTOptix.Retentivity
    Version: 1.0
-  8:
-   Uri: 'urn:FTOptix:RAEtherNetIP'
-   Module: FTOptix.RAEtherNetIP
-   Version: 6.3
   9:
    Uri: 'urn:FTOptix:CommunicationDriver'
    Module: FTOptix.CommunicationDriver
    Version: 3.0
+  10:
+   Uri: 'urn:FTOptix:MicroController'
+   Module: FTOptix.MicroController
+   Version: 3.1
  Statistics:
-  TotalNodeCount: 244
-  Objects: 94
+  TotalNodeCount: 236
+  Objects: 93
   ObjectTypes: 1
-  Variables: 149
+  Variables: 142
   VariableTypes: 0
   DataTypes: 0
   Methods: 0

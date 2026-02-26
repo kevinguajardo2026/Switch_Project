@@ -1,6 +1,6 @@
 Name: TagImporter
-Type: RAEtherNetIPTagImporter
-OwnerId: ns=2;g=b1f3d0276b89d1f81af760c6899e5427
+Type: MicroControllerTagImporter
+OwnerId: ns=2;g=07535d95f431a017535aed060d6a382a
 Children:
 - Name: IgnoredPLCItems
   Type: BaseDataVariableType
@@ -16,3 +16,6 @@ Children:
   Type: BaseDataVariableType
   DataType: FetchModes
   Value: 1
+- Name: FilePath
+  Type: BaseDataVariableType
+  DataType: AbsoluteResourceUri

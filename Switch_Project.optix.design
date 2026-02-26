@@ -19,15 +19,15 @@ Project:
    Uri: 'urn:FTOptix:TagImporter'
    Module: FTOptix.TagImporter
    Version: 1.0
-  6:
-   Uri: 'urn:FTOptix:RAEtherNetIPTagImporter'
-   Module: FTOptix.RAEtherNetIPTagImporter
+  7:
+   Uri: 'urn:FTOptix:MicroControllerTagImporter'
+   Module: FTOptix.MicroControllerTagImporter
    Version: 1.0
  Statistics:
-  TotalNodeCount: 4
+  TotalNodeCount: 5
   Objects: 1
   ObjectTypes: 0
-  Variables: 3
+  Variables: 4
   VariableTypes: 0
   DataTypes: 0
   Methods: 0
@@ -35,4 +35,4 @@ Project:
   ReferenceTypes: 0
   Files: 1
  Nodes:
- - File: DesignTimeNodes/CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/TagImporter.yaml
+ - File: DesignTimeNodes/CommDrivers/MicroControllerDriver1/MicroControllerStation1/TagImporter.yaml
