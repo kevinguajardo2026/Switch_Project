@@ -1,0 +1,24 @@
+Name: Switches
+Type: FolderType
+Children:
+- Name: Switch1
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Switch2
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Switch3
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Switch4
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Switch5
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Switch6
+  Type: BaseDataVariableType
+  DataType: Boolean
+- Name: Switch7
+  Type: BaseDataVariableType
+  DataType: Boolean
