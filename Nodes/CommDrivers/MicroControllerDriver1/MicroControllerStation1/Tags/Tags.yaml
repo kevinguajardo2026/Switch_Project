@@ -1,2 +1,124 @@
 Name: Tags
 Type: FolderType
+Children:
+- Name: Switch1
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Switch1"
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../../../Model/Switches/Switch1"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
+- Name: Switch2
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Switch2"
+- Name: Switch3
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Switch3"
+- Name: Switch4
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Switch4"
+- Name: Switch5
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Switch5"
+- Name: Switch6
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Switch6"
+- Name: Switch7
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Switch7"
+- Name: _IO_EM_DI_01
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "_IO_EM_DI_01"
+- Name: _IO_EM_DI_02
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "_IO_EM_DI_02"
+- Name: _IO_EM_DI_03
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "_IO_EM_DI_03"
+- Name: _IO_EM_DI_04
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "_IO_EM_DI_04"
+- Name: _IO_EM_DI_05
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "_IO_EM_DI_05"
+- Name: _IO_EM_DI_06
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "_IO_EM_DI_06"
+- Name: _IO_EM_DI_07
+  Type: MicroControllerTag
+  DataType: Boolean
+  Children:
+  - Name: SymbolName
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "_IO_EM_DI_07"

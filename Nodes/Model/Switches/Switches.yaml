@@ -4,21 +4,91 @@ Children:
 - Name: Switch1
   Type: BaseDataVariableType
   DataType: Boolean
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../CommDrivers/MicroControllerDriver1/MicroControllerStation1/Tags/_IO_EM_DI_01"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
 - Name: Switch2
   Type: BaseDataVariableType
   DataType: Boolean
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../CommDrivers/MicroControllerDriver1/MicroControllerStation1/Tags/Switch2"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
 - Name: Switch3
   Type: BaseDataVariableType
   DataType: Boolean
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../CommDrivers/MicroControllerDriver1/MicroControllerStation1/Tags/Switch3"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
 - Name: Switch4
   Type: BaseDataVariableType
   DataType: Boolean
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../CommDrivers/MicroControllerDriver1/MicroControllerStation1/Tags/Switch4"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
 - Name: Switch5
   Type: BaseDataVariableType
   DataType: Boolean
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../CommDrivers/MicroControllerDriver1/MicroControllerStation1/Tags/Switch5"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
 - Name: Switch6
   Type: BaseDataVariableType
   DataType: Boolean
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../CommDrivers/MicroControllerDriver1/MicroControllerStation1/Tags/Switch6"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2
 - Name: Switch7
   Type: BaseDataVariableType
   DataType: Boolean
+  Children:
+  - Name: DynamicLink
+    Type: DynamicLink
+    DataType: NodePath
+    Value: "../../../CommDrivers/MicroControllerDriver1/MicroControllerStation1/Tags/Switch7"
+    Children:
+    - Name: Mode
+      Type: BaseVariableType
+      DataType: DynamicLinkMode
+      Value: 2

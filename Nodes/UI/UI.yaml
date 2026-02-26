@@ -255,7 +255,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/Switch_Project/Model/Switches/Switch1"
+        Value: "/Objects/Switch_Project/CommDrivers/MicroControllerDriver1/MicroControllerStation1/Tags/_IO_EM_DI_01"
     - Name: Width
       Type: BaseVariableType
       DataType: Size
@@ -376,7 +376,7 @@ Children:
       - Name: DynamicLink
         Type: DynamicLink
         DataType: NodePath
-        Value: "/Objects/Switch_Project/Model/Switches/Switch2"
+        Value: "/Objects/Switch_Project/CommDrivers/MicroControllerDriver1/MicroControllerStation1/Tags/_IO_EM_DI_01"
     - Name: Width
       Type: BaseVariableType
       DataType: Size
